@@ -2,7 +2,7 @@
 <h1 align="center">Data Science Voyager</h1>
 
 <div align="center">
-  <img src="" alt="Logo">
+  <img src="https://github.com/johnurwin/Data-Science-Voyager/blob/main/data_science_logo.png" alt="Logo">
 </div>
 
 Welcome to the Data Science Voyager repository. This project is designed to provide resources, examples, and hands-on exercises to help you enhance your skills in data science and data analysis using publicly available datasets.
